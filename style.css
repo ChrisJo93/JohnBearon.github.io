@@ -5,10 +5,6 @@ body {
   width: 100%
 }
 
-ul {
-  list-style-type: none;
-}
-
 .header {
   border: 1px solid black
   font-size: 30

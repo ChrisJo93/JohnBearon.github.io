@@ -5,11 +5,9 @@ body {
   width: 100%
 }
 
-<style type="text/css">
- ul {
-   list-style-type: none;
+ul {
+  list-style-type: none;
 }
-</style>
 
 .header {
   border: 1px solid black

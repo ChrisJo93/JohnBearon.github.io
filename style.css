@@ -1,1 +1,19 @@
+body {
+  background-color: lightgrey;
+  margin: 100px 250px;
+  font-family: arial, times new roman, sans-serif;
+  color: #777777
+}
+
+.titles {
+  margin: 10px 0;
+  border-top: 1px solid #777777;
+  border-bottom: 1px solid #777777;
+  border-left: 1px solid #777777;
+  border-right: 1px solid #777777;
+  
+}
+
+
+
 

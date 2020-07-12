@@ -1,9 +1,9 @@
 body {
+  background-color: light grey;
   font-family: times new roman, serif;
-  height: 100%;
-  margin: 3;
-  text-align: center;
+  margin: 100px, 250px
   width: 100%
+}
 
 .header {
   border: 1px solid black

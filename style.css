@@ -1,7 +1,6 @@
   body {
   margin: 50px 250px;
   font-family: "times new roman", times, serif;
-  color: red;
 }
 
 .titles {
@@ -36,6 +35,6 @@ h4 {
 }
 
 #grad1 {
-  height: 200px;
+  height: 500px;
   background-image: linear-gradient(lightblue, white);
 }

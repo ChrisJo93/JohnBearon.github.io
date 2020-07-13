@@ -35,6 +35,6 @@ h4 {
 }
 
 #grad1 {
-  height: 100px;
+  height: 200px;
   background-image: linear-gradient(lightblue, white);
 }

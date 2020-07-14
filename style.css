@@ -45,5 +45,6 @@ h4 {
 
 .test {
   float: right;
+  boarder-radius: 50%;
 }
   

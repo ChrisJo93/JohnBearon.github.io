@@ -43,8 +43,8 @@ h4 {
   background-attachment: fixed;
 }
 
-.test {
+img {
   float: right;
-  boarder-radius: 50%;
+  boarder-radius: 100%;
 }
   

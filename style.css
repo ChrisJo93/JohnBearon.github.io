@@ -44,7 +44,6 @@ h4 {
 }
 
 img {
-  position: relative;
-  left: 30px;
+  float: right;
 }
   

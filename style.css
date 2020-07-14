@@ -42,3 +42,9 @@ h4 {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+img {
+  position: relative;
+  left: 30px;
+}
+  
